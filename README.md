@@ -1,1 +1,1 @@
-# this folder contains array codes
+# this folder contains array code
